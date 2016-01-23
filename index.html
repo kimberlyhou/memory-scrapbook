@@ -46,7 +46,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <div class="header-content-inner">
                 <h1>"We didn't realize we were making memories; we just knew we were having fun"</h1>
                 <p></p>
-                <a href="#section-one" class="btn btn-primary btn-xl page-scroll">Start the journey</a>
+                <a href="#section-one" onclick="dataLayer.push({'event': 'startButtonClicked'});" class="btn btn-primary btn-xl page-scroll">Start the journey</a>
             </div>
         </div>
     </header>
@@ -60,7 +60,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <div class="col-md-6 text-center">
                     <h2 class="section-heading">"I will pick up the hook.<br> You will see something new. <br> Two things. And I call them <br> Thing One and Thing Two."</h3>
                     
-                    <a href="#section-two" name="sectionOneButton" onclick="dataLayer.push({'event': 'firstButton-Clicked'});" class="btn btn-default btn-xl page-scroll">Continue</a>
+                    <a href="#section-two" class="btn btn-default btn-xl page-scroll">Continue</a>
                 </div>
             </div>
         </div>
