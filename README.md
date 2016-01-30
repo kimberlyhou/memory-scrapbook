@@ -93,6 +93,47 @@ What problem does Snapchat design a solution for?
 -	"Emergency detagging of Facebook photos before job interviews and photoshopping blemishes out of candid shots before they hit the internet" [source]
 
 
+<a href="#top" class="top" id="growth">Top</a>
+# Level 5: Growth
+
+Growth needs to be prioritized at every stage of your product for it to succeed. The assumption that “good products sell themselves” has never been more false. Conceptually and in a vacuum, this statement seems logical. However, in the cutthroat reality of a world saturated with countless products competing for every consumer/organization’s attention span each day, it is difficult for good products to even get thought of by their consumers, much less get used.
+
+In fact, even if a product is good and has huge factors in its favor, such as a large existing user base, significant funding, or first-mover advantage, it’ll still probably fail. Just look at products such as Rdio, Sidecar, Secret, Google+, Everpix, Slingshot, and countless other products now in the graveyard. Now more than ever, growth principles need to be instilled in the product for it to even have a chance of survival.
+
+<a href="#top" class="top" id="before-during-mvp-creation">Top</a>
+## 5.1 Before / During MVP Creation
+The Hook Model -- When creating your product, your ultimate goal should be to turn your product into a habit. Use Nir Eyal’s Hook Model to dissect a user’s flow throughout your product and determine which areas to improve. The hook model is a cycle comprised of four parts: trigger, action, variable reward, and investment.
+
+[Photo Here]
+
+What’s your product’s trigger? -- A trigger sparks the beginning of a user’s behavior in your app. There are two types of triggers, external and internal. An external trigger is something that the user sees and one that alerts users to come to the product; examples include an email, link, or the app icon. An Internal trigger is something the user thinks or feels and attaches itself to a user’s existing behaviors. This attachment done through the user cycling through the Hook Model multiple times. When a product becomes tightly coupled with a thought, an emotion, or a preexisting routine, it leverages an internal trigger. Probably the best example of an internal trigger is your itch to check your Facebook newsfeed every day if you’re bored.
+
+What’s your product’s action? -- An action is the minimum interaction the user needs to do to get a reward (next step). It follows the trigger. In deciding what action the user should take, use the Fogg Behavior Model as a reference. The Fogg Behavior Model states that there are three core motivators required to initiate any and all behaviors:
+- Seek pleasure and avoid pain
+- Seek hope and avoid fear
+- Seek social acceptance and avoid rejection
+
+In addition to this model, take into account various mental heuristics all humans have. The most relevant ones include:
+The scarcity effect: the appearance of scarcity affects perception of value
+The framing effect: context also shapes perception and the mind takes shortcuts informed by our surroundings to make quick and sometimes erroneous judgment
+Anchoring effect: people often anchor to one piece of info when making a decision
+Endowed progress effect: a phenomenon that increases motivation as people believe they are nearing a goal
+
+Finally, the user should also have the ability to complete the desired action with the greatest amount of ease possible. Any tech/product that significantly reduces steps to complete a task will enjoy high adoption rates by people it assists.
+
+What’s your product’s variable reward? -- Levels of dopamine surge when the brain is expecting a reward and there is very little diminishing marginal effectiveness when the reward has different content every time. Moreover, introducing variability multiplies the effect, creating a focused state, which suppresses the areas of the brain associated with judgment and reason while activating parts associated with desire.
+
+Variable rewards come in three types: the reward of the tribe, the reward of the hunt, and the reward of the self. 
+- The tribe: the need to feel accepted and important
+- The hunt: the need to acquire a prize
+- The self: the need to better oneself 
+
+What investment does your product ask from the user? 
+Investment is the last phase of the Hook Model and it focuses on increasing the odds the user will make another pass through the Hook Model. Remember, the more cycles a user makes through your product, the stickier it becomes and the more it becomes associated with an internal trigger.
+
+An investment occurs when the user puts something into the product such as time, data, effort, social capital, or money. Moreover, an investment needs to imply an action that improves the service for the next go-around. Examples include inviting friends, stating preferences, building virtual assets, and learning to use new features are also investments.
+
+Okay great. Now you have a conceptual framework to build growth into your product. Now how do you measure its effectiveness and iterate on this MVP?
 
 
 ___________
