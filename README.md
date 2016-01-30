@@ -159,6 +159,9 @@ Also, remember that the users may come upon your site / product through various 
 The key workflow to sending a snap is just 3 steps. The most common flow (sending a snap) is abstracted to take a minimal number of input/keystrokes from the user (read down the right hand column of the figure).
 Going back to the mission statement: the workflow is optimized for people to take and share photos that capture their unabridged emotion and state. This is why the home screen on first launch of the app is the camera. The camera is the center of the UI. 
 
+![Snapchat Flow](https://raw.githubusercontent.com/kimberlyhou/memory-scrapbook/josh-markdown/img/snapchat-i.png)
+![Snapchat Flow II](https://raw.githubusercontent.com/kimberlyhou/memory-scrapbook/josh-markdown/img/snapchat-ii.png)
+
 The way to think about your metrics is by thinking about what questions you want to ask yourself about how your users are using your product. Snapchat might be interested in the following questions about how their users are using the app:
 -	Is there a drop off point/bottleneck where users are stopping in the flow of sending a snap?
 -	Putting counts in about how many users are at each point in the flow could give insight into this
@@ -229,7 +232,7 @@ In fact, even if a product is good and has huge factors in its favor, such as a 
 ## 5.1 Before / During MVP Creation
 The Hook Model -- When creating your product, your ultimate goal should be to turn your product into a habit. Use Nir Eyal’s Hook Model to dissect a user’s flow throughout your product and determine which areas to improve. The hook model is a cycle comprised of four parts: trigger, action, variable reward, and investment.
 
-[Photo Here]
+![The Hook](https://raw.githubusercontent.com/kimberlyhou/memory-scrapbook/josh-markdown/img/thehook.png)
 
 What’s your product’s trigger? -- A trigger sparks the beginning of a user’s behavior in your app. There are two types of triggers, external and internal. An external trigger is something that the user sees and one that alerts users to come to the product; examples include an email, link, or the app icon. An Internal trigger is something the user thinks or feels and attaches itself to a user’s existing behaviors. This attachment done through the user cycling through the Hook Model multiple times. When a product becomes tightly coupled with a thought, an emotion, or a preexisting routine, it leverages an internal trigger. Probably the best example of an internal trigger is your itch to check your Facebook newsfeed every day if you’re bored.
 
