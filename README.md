@@ -135,7 +135,68 @@ An investment occurs when the user puts something into the product such as time,
 
 Okay great. Now you have a conceptual framework to build growth into your product. Now how do you measure its effectiveness and iterate on this MVP?
 
+<a href="#top" class="top" id="after-mvp-creation">Top</a>
+## 5.2 After MVP Creation
 
+The hooked model is a great conceptual framework to keep in mind throughout all stages of a product’s lifecycle, but after the minimum viable product is created and pushed out to your target audience, you also need a framework to digest usage data and create experiments.
+
+Experimentation process -- Here is the process used by the HubSpot growth team. This framework is a sustainable growth process that is scalable, repeatable, and somewhat predictable in trying out and optimizing user growth channels. 
+
+The first step is to know where you’re going and set goals with an OKR framework (Objective and Key Results). 
+OBJECTIVE: Qualitative statement. Take a step back and ask what is the one area you can work on that drives the biggest impact on your growth curve right now?
+TIMEFRAME: 30 - 90 Days 
+- KR1: Measurable Goal 1 (Hit 90% Of Time) 
+- KR2: Measurable Goal 2 (Hit 50% Of Time)
+- KR3: Measurable Goal 3 (Hit 10% Of Time)
+One of the biggest mistakes almost all startups do is trying everything at once instead of prioritizing; this OKR helps prevent this. There’s tremendous risk to diversifying growth channels too early: you stretch thin already limited resources and end up doing so many things at once the results come back extremely slow and you get nowhere for a long time. Instead, it’s much better to prioritize and choose one or two channels at a time to test out. If they don’t work, take the learnings, which give you a much better sense of the next one or two channels to move on to, and move on to these channels. Even in the longterm, a lot of successful companies scale off the back of one major acquisition channel (can account for 80% of a company’s growth).
+
+The second step is to hit the road as fast as possible after setting OKRs. This process is comprised of brainstorming, testing, implementing, analyzing, and systemizing.
+
+Brainstorm -- There are four ways to generate growth ideas: observing, questioning, associating, and networking
+Observe: how are others doing it? Look outside of your immediate product space. Walk through together.
+Question: Why? What is... What if... What about... How do we do more of... 
+Associate: connect the dots between unrelated things. 
+Network: growth mastermind groups.
+
+Prioritize -- Prioritize based on three main factors: probability of success, impact, resources. Do the low-resource things first because you should try to get as many experiments in as possible.
+
+Test -- Create a minimum viable test and an experiment document detailing the test. A minimum viable test is the minimum thing you can do to test hypothesis. Afterwards, implement the test as fast as possible; remember that you want to get as many experiments in as possible. 
+
+Analyze -- This is the most important step of the process. Important areas of analysis include the impact of the test, the accuracy of the hypothesis, and why you believe the results of the experiment happened. As you extract as many learnings as you can, turn them into new action items, and adjust priorities and predictions accordingly
+
+Systemize -- After analyzing, systemize your learnings by taking the successful learnings and feeding them back into the process. Integrate learnings as much as you can into the product itself and for the things you can’t productize, build into step by step playbooks to make them repeatable.
+
+Throughout this process, you should have created five key documents.
+- OKR
+- Backlog: the backlog of experiment ideas. 
+- Pipeline Experiments: a ledger of experiments that were ran or are currently running and the highlights of their results. 
+- Experiment Doc: Include the Objective, Hypothesis, Experiment Design, Results, Analysis, and Learnings
+- Playbooks: Step by step guides for successful experiments that should be repeated.
+
+Take a step back -- Have review every quarter and look at your operations from a macro perspective. Consider issues such as
+- What’s your batting average? How many successes to failures? 
+- Is it improving over time? Are your hypotheses getting more accurate?
+- How many experiments are you running in a given time period? How do you do more?
+- Afterwards, optimize accordingly by improving the team, the process, or the tools.
+
+<a href="#top" class="top" id="the-growth-funnel">Top</a>
+## 5.3 The Growth Funnel
+Since brainstorming is the hardest and most abstract component of this process, I’m going to expand on this. You can find and run ideas through the aforementioned Hook Model but now’s also a good time to introduce the AARRR framework (the growth funnel) popularized by 500 Startups, which helps you find ideas for which growth channels and metrics to focus on.
+
+Acquisition -- People come to your site after they’ve heard about you through press, blogs, word of mouth, and other acquisition channels. There are two types of acquisition channels: inbound and outbound. Inbound acquisition channels focus on creating quality content that pulls people in. Example inbound channels include blogging, podcasting, ebooks, guides, whitepapers, infographics, webinars, conferences, videos, slide decks, SEO, and an organic social media presence. Outbound acquisition channels focus on pushing information to people in often disruptive ways. Examples of outbound marketing include billboards, television ads, social media ads, promotional swaps, and affiliate marketing.
+
+Activation -- If people like what they see on your homepage or other landing page, they’ll become users by either creating an account, signing up for a newsletter, or some other form of activation. Activation methods include landing pages, copywriting, calls to action, onboarding, gamification, social proof. 
+
+Retention -- Users come back to the site through reminders and stay active through product features they encounter while they’re back on the site. Retention is the most important part of the funnel; it provides the foundation of growth and every improvement to retention also improves virality, the lifetime value of a customer, and payback period.
+To improve week one retention, get users to experience the core value of the product as quickly as possible using better onboarding, clearer messaging, and segmented NUX targeted at different users. Improving Week 1 retention is particularly important because it shifts the whole retention curve up.
+To improve mid-term retention, get users to create habits around the core value of the product (ie through the Hook Model).
+To improve long-term retention, get users to experience the core value as much as possible (ie through the Hook Model)
+
+Referral -- Active users refer others through viral product features and other incentives. Social media sharing buttons, social logins, referral competition, referral rewards, pre-written emails, etc. are all ways to get people to recommend your product. 
+
+Revenue -- Eventually you’ll have to monetize active users through advertising, lead generation offers, subscription, or business development.
+
+Deliverable: Brainstorm some of the mechanisms you’ll use to get people through each stage of the growth funnel. 
 ___________
 <a href="#top" class="top" id="additionalresources">Top</a>
 ## Additional Resources
