@@ -139,7 +139,7 @@ As part of optimizing user experience for a product, some designers emphasize th
 
 Personas may also be used for branding and marketing purposes in addition to user-centered design. For instance, CityMapper capitalizes on the stereotypes of its users as part of marketing - 
 
-[Citymapper photo] 
+![Courtesty of Citymapper](https://raw.githubusercontent.com/kimberlyhou/memory-scrapbook/josh-markdown/img/citymapper.png)
 
 <a href="#top" class="top" id="user-flows"><Top></a>
 ## 2.3 User Flows
