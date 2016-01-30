@@ -182,6 +182,43 @@ The way to think about your metrics is by thinking about what questions you want
 Deliverable: Create a spec for your product. Tomorrow you’ll be using it to design your mocks!
 
 <a href="#top" class="top" id="growth">Top</a>
+
+<a href="#top" class="top" id="design-ii">Top</a>
+# 3.0 Design II
+
+For this project, we’ll use the following process to design our product:
+
+wireframe → mockup → prototype
+
+Note that the design process of a product can vary widely by company. Some companies don’t do a wireframe at all, or they complete the process in a different order. Some might also emphasize perfection and adherence to a mockup more than others. Yet others define prototypes differently. 
+
+As we dive into the more design-oriented phase of product development, there are a few things to keep in mind:
+-	Simplicity is key
+-	Keep your call to actions focused to keep the user going down the funnel
+-	Wireframes are for structure; mockups are for visuals
+
+<a href="#top" class="top" id="wireframe">Top</a>
+## 3.1 Wireframe
+
+First, make sure you have Balsamiq downloaded. We’ll be using the free trial version, which is valid for 30 days. 
+
+Before fleshing out colors and other visual details, we will first make a wireframe. Typically of low fidelity, a wireframe is mainly used early on in the process to map out the structure of elements on the page(s). 
+
+Deliverable: Using Balsamiq (or pens and paper if you’d prefer), create a wireframe based on your specs. 
+
+<a href="#top" class="top" id="mockup">Top</a>
+## 3.2 Mockup
+
+Wireframes are cool to get a sense for the user interface; now let’s bring the product to life by creating a mockup! We’ll use the free trial of Axure. 
+
+Axure has a few awesome tutorials; take a look at the first 5 or so to become familiar with the layout of the software. 
+
+Deliverable: Using Axure, create a mock based on your wireframe. 
+
+<a href="#top" class="top" id="bonus">Top</a>
+## 3.3 Bonus
+At this point, we’re ready to create a prototype of what we’ve planned out. If you’re ready to go ahead and code up what you’ve planned thus far, by all means jump in. Alternatively, we’ve included a sample project you may use to continue with the rest of the tasks in the curriculum. 
+
 # Level 5: Growth
 
 Growth needs to be prioritized at every stage of your product for it to succeed. The assumption that “good products sell themselves” has never been more false. Conceptually and in a vacuum, this statement seems logical. However, in the cutthroat reality of a world saturated with countless products competing for every consumer/organization’s attention span each day, it is difficult for good products to even get thought of by their consumers, much less get used.
