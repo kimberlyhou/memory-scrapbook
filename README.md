@@ -524,7 +524,7 @@ Deliverable: Brainstorm some of the mechanisms you’ll use to get people throug
 ___________
 Hope you found this curriculum helpful! 
 
-To learn more about our organization, visit [CORE](coreatcu.com).
+To learn more about our organization, visit [CORE](http://coreatcu.com).
 
 [source]: http://blog.snapchat.com/post/22756675666/lets-chat
 [referred to]: https://hbr.org/2015/01/what-is-a-business-model
