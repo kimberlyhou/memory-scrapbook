@@ -3,7 +3,7 @@
 
 *This curriculum introduces the fundamental steps of the product development process from brainstorming to growing your user base.*
 
-Written and developed by [Kimberly Hou](http://kimberlyhou.com), [George Liu](), and [Joshua Zweig]().
+Written and developed by [Kimberly Hou](http://kimberlyhou.com), [George Liu](http://www.george.ws/), and [Joshua Zweig](https://twitter.com/original_jz).
 
 <a href="#top" class="top" id="getting-started">Top</a>
 # About This Document
@@ -91,6 +91,71 @@ Before building a product, it’s important to define who your users/customers a
 What problem does Snapchat design a solution for?
 -	"Snapchat isn't about capturing the traditional Kodak moment. It's about communicating with the full range of human emotion — not just what appears to be pretty or perfect."
 -	"Emergency detagging of Facebook photos before job interviews and photoshopping blemishes out of candid shots before they hit the internet" [source]
+
+Who are the users?
+-	Criteria for being a snapchat user: Having a connected smartphone (indicates a certain geographical/socioeconomic status)
+-	Key demographic: US Residents, 13-24 years of age
+-	Snapchat is still young, so the early adopters of US Residents from 13-24 are the key demographic this far. International and older demographics are beginning to adopt the technology 
+
+<a href="#top" class="top" id="user-feedback">Top</a>
+## 1.3 User Feedback
+Let’s switch gears for a bit and introduce what many companies (both large and small) are now seeing as crucial to the product development process even from very early on: user feedback. 
+
+<a id="user-tests"></a>
+### 1.3.1 User Tests
+User tests are the bread and butter of figuring out how to build and improve your product. Ideally, a company would be talking to its hypothetical users throughout the product development process and making slight adjustments along the way to maximize efficiency and reduce wasted resources. 
+
+When conducting one-on-one user tests and observing how they first interact with the product’s flow, it’s important to keep in mind what they do not say as well as what they comment on. Identifying usability problems is not always straightforward. For example, a user may not be able to find the login button on a site for about 5 seconds; the user might not say anything for fear of sounding dumb, but that very well could be an important usability issue that the team should change. 
+
+How many user tests count as too many? Feedback sessions can be costly in terms of time for the team and money for the users. As a rule of thumb, some say you’ll find the significant problems with your product from just 5 users for every iteration. 
+
+Another option is to conduct focus groups, where the team brings in several people to answer questions. These tend to be useful for sourcing keyword ideas on branding, mission, and marketing as well as for suggestions on the overall product’s user flow. 
+
+<a id="screeners"></a>
+### 1.3.2 Screeners
+When choosing a sample of the product’s target audience to conduct user feedback tests with, companies often write screeners first. A screener could be as simple as a form to select users with the right demographics. It’s very important to erase any potential biases in how each question on the screener is worded to avoid false answers. 
+
+A few things to keep in mind for writing effective screeners:
+-	Use multiple choice questions with answer choices as ranges when possible
+	-	Masks the demographic that we’re looking for, giving users no reason to lie
+-	Always add a choice for “I do not feel comfortable answering this question”
+	-	Especially important when asking for more sensitive information such as credit score or salary ranges
+	-	Gives users sense of privacy
+
+<a href="#top" class="top" id="business-models">Top</a>
+## 1.4 Business Models
+
+<a id="whats-in-a-business-model"></a>
+### 1.4.1 What's in a Business Model?
+The term ‘business model’ is sometimes taken as the answer to ‘how a company makes money,’ but it can be so much more complex and flexible than just that. In fact, ‘business model’ has been [referred to] as a ‘term of art.’
+
+In a nutshell, the business model explains what user problem you’re solving, what your product’s value proposition is, and what profitability margins could realistically look like. 
+
+<a id="examples-of-business-models"></a>
+### 1.4.2 Examples of Business Models
+-	Warby Parker
+	-	e-commerce site that sells glasses for a cheaper price than its competitors by removing the middlemen
+	-	donates glasses to nonprofit partners for a training program
+-	Fruit Ninja
+	-	uses ads to support its free version and is built on a freemium model (free downloads with options to purchase extra features or bigger subscriptions)
+	-	premium downloads + in-game purchases are over $1 million / month, excluding ads
+-	Airbnb
+	-	takes advantage of the person-to-person business model 
+
+Now let's take a look at Snapchat, a rather interesting case:
+	-	It is actually not uncommon for tech companies that deliver a viral/niche product to begin without a business model. 
+	-	Sponsored Channels (Discover)
+		-	Companies pay to have their sponsored content on a snapchat channel (news, sports, fashion, etc) and users receive well curated and frequently updated content 
+
+<a id="lean-canvas"></a>
+### 1.4.3 Lean Canvas
+In order to consolidate and document a given business model, Alexander Osterwalder proposed the [Business Model Canvas] in 2008, allowing teams to segment out the fundamentals of operating their business, from identifying key partners to building customer relationships. Stemming from the Business Model Canvas came a few other versions including the Lean Canvas for startups created by Ash Maurya. 
+
+Note the Lean Canvas was made with the mindset of the Lean Startup methodology as developed by Eric Ries in 2008. The method emphasizes user feedback during the entire product cycle so as to save as much time and energy as possible while optimizing a solution users want. Instead of waiting until launch to speak with users and gauge interest, Ries calls for building a minimum viable product (MVP) instead as soon as possible and then iterating upon it based on user feedback. 
+
+In any case, today we’ll be using the Lean Canvas template to brainstorm and come up with our own business models. 
+
+**Today's Deliverable:** Think about a problem that you’re interested in or passionate about. If needed, conduct some research about the space you’re hypothetically pursuing and form a framework from which to implement your solution. Document your own business model using the [Lean Canvas template]. 
 
 <a href="#top" class="top" id="design-i">Top</a>
 # Level 2: Design I
@@ -182,7 +247,7 @@ The way to think about your metrics is by thinking about what questions you want
 -	Another interesting KPI
 -	Could identify other possible bottlenecks 
 
-Deliverable: Create a spec for your product. Tomorrow you’ll be using it to design your mocks!
+**Deliverable:** Create a spec for your product. Tomorrow you’ll be using it to design your mocks!
 
 <a href="#top" class="top" id="growth">Top</a>
 
@@ -203,24 +268,155 @@ As we dive into the more design-oriented phase of product development, there are
 <a href="#top" class="top" id="wireframe">Top</a>
 ## 3.1 Wireframe
 
-First, make sure you have Balsamiq downloaded. We’ll be using the free trial version, which is valid for 30 days. 
+First, make sure you have [Balsamiq] downloaded. We’ll be using the free trial version, which is valid for 30 days. 
 
 Before fleshing out colors and other visual details, we will first make a wireframe. Typically of low fidelity, a wireframe is mainly used early on in the process to map out the structure of elements on the page(s). 
 
-Deliverable: Using Balsamiq (or pens and paper if you’d prefer), create a wireframe based on your specs. 
+**Deliverable:** Using Balsamiq (or pens and paper if you’d prefer), create a wireframe based on your specs. 
 
 <a href="#top" class="top" id="mockup">Top</a>
 ## 3.2 Mockup
 
-Wireframes are cool to get a sense for the user interface; now let’s bring the product to life by creating a mockup! We’ll use the free trial of Axure. 
+Wireframes are cool to get a sense for the user interface; now let’s bring the product to life by creating a mockup! We’ll use the free trial of [Axure]. 
 
 Axure has a few awesome tutorials; take a look at the first 5 or so to become familiar with the layout of the software. 
 
-Deliverable: Using Axure, create a mock based on your wireframe. 
+**Deliverable:** Using Axure, create a mock based on your wireframe. 
 
 <a href="#top" class="top" id="bonus">Top</a>
 ## 3.3 Bonus
 At this point, we’re ready to create a prototype of what we’ve planned out. If you’re ready to go ahead and code up what you’ve planned thus far, by all means jump in. Alternatively, we’ve included a sample project you may use to continue with the rest of the tasks in the curriculum. 
+
+<a href="#top" class="top" id="analytics">Top</a>
+# Level 4: Analytics
+We’ll use a sample website as a coded prototype that you can download from this Github repository. Let’s see how many people are clicking on our buttons and scrolling through the webpage. This is also known as tracking user engagement and/or user conversions. In this level, we’ll learn about implementing event tracking through Google Tag Manager and Mixpanel. 
+
+<a href="#top" class="top" id="how-do-these-tools-work">Top</a>
+## 4.1 How do these tools work?
+Google Tag Manager (GTM) is a free software tool to remotely deploy code on your site that allows for event tracking (and much more) without having to directly hardcode every single page of your site. An *event* is simply an action by the user, whether it be clicking a button or viewing a page. In Google Tag Manager, we create a *trigger* for each event by setting customized rules. If these rules are met, the trigger is turned on and tells the corresponding *tag* to ‘fire,’ sending the information through the Google *data layer object* to another software tool that specializes in tracking the actual analytics.
+
+Hold up, what is the Google data layer? The data layer is an object in which information such as events or variables we define is passed to Google Tag Manager. We can then create triggers based on these variables. 
+
+So what analytics tool would go well with GTM? There are several great options out there to pair with Google Tag Manager such as Google Analytics or KISSmetrics. For the purposes for this project, we’ll use a service called Mixpanel because of its ability to track analytics more or less in real time. 
+
+<a href="#top" class="top" id="google-tag-manager">Top</a>
+## 4.2 Google Tag Manager
+
+<a id="setting-up-gtm"></a>
+### 4.2.1 Setting up GTM
+Sign into GTM and create an account with the setup container as the domain you’re using: 
+
+![Setting up GTM](https://raw.githubusercontent.com/kimberlyhou/memory-scrapbook/img/421A.png)
+
+Then copy the code as prompted and paste into every page of your site right after the opening `<body>` tag. 
+
+Google should also initiate a data layer object automatically, but just so we can visualize it better, let’s add the object above the container snippet:
+
+```html
+...
+<body id="page-top">
+  <script>
+  dataLayer = [];
+</script>
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MRTDS4"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MRTDS4');</script>
+<!-- End Google Tag Manager -->
+...
+```
+<a id="add-event-handlers"></a>
+### 4.2.2 Add Event Handlers
+Let’s pause using GTM for a minute and navigate to our HTML file. In order to link the HTML elements we want to track -- in this case, we’ll start by tracking button clicks -- we need to add events in Javascript to push certain data when those buttons are clicked. To do so, add the following code snippet to your first button:
+
+```html
+...
+<a href="#section-one" onclick="dataLayer.push({'event': 'startButtonClicked'});" class="btn btn-primary btn-xl page-scroll">Start the journey</a>
+...
+```
+
+Note that you can customize the field where ‘startButtonClicked’ is. You’re essentially naming the event that your trigger will look for in the data layer when that particular button is clicked. 
+
+<a id="add-a-trigger-in-gtm"></a>
+### 4.2.3 Add a Trigger in GTM
+Now let’s add a corresponding trigger in GTM to track this particular button click:
+
+![Add a Trigger in GTM](https://raw.githubusercontent.com/kimberlyhou/memory-scrapbook/img/423.png)
+
+<a id="add-a-tag-in-gtm"></a>
+### 4.2.4 Add a Tag in GTM
+Now that we’ve set up the rules to make this trigger render as true or false, we need to set up a tag that will fire when this trigger renders as true. Let’s create a tag with these settings:
+
+![Add a Tag in GTM](https://raw.githubusercontent.com/kimberlyhou/memory-scrapbook/img/424.png)
+
+The string that is passed into mixpanel.track() will be the string you will see directly in Mixpanel’s analytics view when you log in. It will only fire on the specified trigger.
+
+<a id="gtm-bonus-and-wrapups"></a>
+### 4.2.5 GTM Bonus and Wrapups
+Now that we’ve added both a tag and trigger for an event, let’s add the rest of the event handlers in our HTML document for the rest of the button clicks we’d like to track as well as their corresponding tags and triggers. 
+
+We can also track page views for our site. To do so, let’s create the following tag:
+
+![GTM Bonus and Wrapups](https://raw.githubusercontent.com/kimberlyhou/memory-scrapbook/img/425.png)
+
+This tag should have the attached trigger:
+
+![GTM Bonus and Wrapups](https://raw.githubusercontent.com/kimberlyhou/memory-scrapbook/img/425B.png)
+
+Note we’re using a variable in this case to draw the particular Page Path passed through the data layer object. We’re then capturing that piece of information and sending it to Mixpanel as we’ll see shortly. 
+
+For more information about the data layer, GTM’s [developer guide] is a good reference.
+
+<a href="#top" class="top" id="mixpanel">Top</a>
+## 4.3 Mixpanel
+
+<a id="creating-a-mixpanel-account"></a>
+### 4.3.1 Creating a Mixpanel Account
+Create a free account and copy the code snippet as prompted. However, instead of pasting it directly onto the web page, we’ll create a single Tag in GTM to have the snippet load on every page. 
+
+Let’s hop on over to GTM and make a tag with the following settings:
+
+![Creating a Mixpanel Account](https://raw.githubusercontent.com/kimberlyhou/memory-scrapbook/img/431.png)
+
+Make sure that the priority of this tag is set to 5 (or anything higher than the default 0) so that it will load first before any other tags. 
+
+<a id="preview-site-in-gtm"></a>
+### 4.3.2 Preview Site in GTM
+
+We’re almost ready to finalize everything! As these parts come together, there is a useful tool we can use in Google Tag Manager to preview the tags and triggers we’ve created live before (or after) publishing all changes. 
+
+Let’s open up GTM, change our mode to Preview, and then open up our website in a new tab of the same browser. 
+
+![Preview Site in GTM](https://raw.githubusercontent.com/kimberlyhou/memory-scrapbook/img/432.png)
+
+Right away, notice the Mixpanel Library tag is automatically fired once the page loads:
+
+![Preview Site in GTM](https://raw.githubusercontent.com/kimberlyhou/memory-scrapbook/img/432B.png)
+
+After clicking on the first two buttons of the page,  you should see additional tags be fired as well as the following events pop up on the data layer:
+
+![Preview Site in GTM](https://raw.githubusercontent.com/kimberlyhou/memory-scrapbook/img/432C.png)
+
+If these look good to you, go ahead and publish any/all changes on Google Tag Manager.
+
+<a id="live-view-in-mixpanel"></a>
+### 4.3.3 Live View in Mixpanel
+Login to your Mixpanel account and navigate to the Live View tab. If the above steps have worked for you, you should now be seeing live click events you’re tracking come through!
+
+![Live View in Mixpanel](https://raw.githubusercontent.com/kimberlyhou/memory-scrapbook/img/433.png)
+
+If you’ve implemented the page view tracker with your own page path variable, here is what you should also see when you click on the event in Mixpanel:
+
+![Live View in Mixpanel](https://raw.githubusercontent.com/kimberlyhou/memory-scrapbook/img/433B.png)
+
+<a id="mixpanel-wrapups"></a>
+### 4.3.4 Mixpanel Wrapups
+There are tons of features to both Google Tag Manager and Mixpanel that we haven’t explored. What we’ve looked at merely scratches the surface of these tools’ potentials, especially with the inherent limitations of the simple site we’ve made. That being said, it’s also cool to visualize how users are engaging with your site through tracking your own funnels, which you can also make in Mixpanel as well. 
 
 # Level 5: Growth
 
@@ -326,20 +522,17 @@ Revenue -- Eventually you’ll have to monetize active users through advertising
 
 Deliverable: Brainstorm some of the mechanisms you’ll use to get people through each stage of the growth funnel. 
 ___________
-<a href="#top" class="top" id="additionalresources">Top</a>
-## Additional Resources
+Hope you found this curriculum helpful! 
 
-Along with this tutorial, there is a wealth of information available on Python all across the web. Below are some good places to start:
-
-- [ADI Resources][learn]
-- [Codecademy][codecademy]
-
-
-
-[github]: 
-[learn]: http://adicu.com/learn
-[codecademy]: http://www.codecademy.com
-[adi]: http://adicu.com
+To learn more about our organization, visit [CORE](coreatcu.com).
 
 [source]: http://blog.snapchat.com/post/22756675666/lets-chat
+[referred to]: https://hbr.org/2015/01/what-is-a-business-model
+[Business Model Canvas]: http://businessmodelgeneration.com/downloads/business_model_canvas_poster.pdf
+[Lean Canvas template]: http://learninguxd.com/wp-content/uploads/2015/02/lean_canvas-1024x682.jpg
+[developer guide]: https://developers.google.com/tag-manager/devguide#datalayer
+
+[source]: http://blog.snapchat.com/post/22756675666/lets-chat
+[Balsamiq]: https://balsamiq.com/
+[Axure]: http://www.axure.com/
  
