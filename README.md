@@ -204,7 +204,7 @@ As part of optimizing user experience for a product, some designers emphasize th
 
 Personas may also be used for branding and marketing purposes in addition to user-centered design. For instance, CityMapper capitalizes on the stereotypes of its users as part of marketing - 
 
-![Courtesty of Citymapper](https://raw.githubusercontent.com/kimberlyhou/memory-scrapbook/josh-markdown/img/citymapper.png)
+![Courtesy of Citymapper](https://raw.githubusercontent.com/kimberlyhou/memory-scrapbook/josh-markdown/img/citymapper.png)
 
 <a href="#top" class="top" id="user-flows"><Top></a>
 ## 2.3 User Flows
@@ -306,7 +306,7 @@ So what analytics tool would go well with GTM? There are several great options o
 ### 4.2.1 Setting up GTM
 Sign into GTM and create an account with the setup container as the domain you’re using: 
 
-![Setting up GTM](https://raw.githubusercontent.com/kimberlyhou/memory-scrapbook/img/421A.png)
+![Setting up GTM](https://raw.githubusercontent.com/kimberlyhou/memory-scrapbook/master/img/421A.png)
 
 Then copy the code as prompted and paste into every page of your site right after the opening `<body>` tag. 
 
@@ -346,13 +346,13 @@ Note that you can customize the field where ‘startButtonClicked’ is. You’r
 ### 4.2.3 Add a Trigger in GTM
 Now let’s add a corresponding trigger in GTM to track this particular button click:
 
-![Add a Trigger in GTM](https://raw.githubusercontent.com/kimberlyhou/memory-scrapbook/img/423.png)
+![Add a Trigger in GTM](https://raw.githubusercontent.com/kimberlyhou/memory-scrapbook/master/img/423.png)
 
 <a id="add-a-tag-in-gtm"></a>
 ### 4.2.4 Add a Tag in GTM
 Now that we’ve set up the rules to make this trigger render as true or false, we need to set up a tag that will fire when this trigger renders as true. Let’s create a tag with these settings:
 
-![Add a Tag in GTM](https://raw.githubusercontent.com/kimberlyhou/memory-scrapbook/img/424.png)
+![Add a Tag in GTM](https://raw.githubusercontent.com/kimberlyhou/memory-scrapbook/master/img/424.png)
 
 The string that is passed into mixpanel.track() will be the string you will see directly in Mixpanel’s analytics view when you log in. It will only fire on the specified trigger.
 
@@ -362,11 +362,11 @@ Now that we’ve added both a tag and trigger for an event, let’s add the rest
 
 We can also track page views for our site. To do so, let’s create the following tag:
 
-![GTM Bonus and Wrapups](https://raw.githubusercontent.com/kimberlyhou/memory-scrapbook/img/425.png)
+![GTM Bonus and Wrapups](https://raw.githubusercontent.com/kimberlyhou/memory-scrapbook/master/img/425.png)
 
 This tag should have the attached trigger:
 
-![GTM Bonus and Wrapups](https://raw.githubusercontent.com/kimberlyhou/memory-scrapbook/img/425B.png)
+![GTM Bonus and Wrapups](https://raw.githubusercontent.com/kimberlyhou/memory-scrapbook/master/img/425B.png)
 
 Note we’re using a variable in this case to draw the particular Page Path passed through the data layer object. We’re then capturing that piece of information and sending it to Mixpanel as we’ll see shortly. 
 
@@ -381,7 +381,7 @@ Create a free account and copy the code snippet as prompted. However, instead of
 
 Let’s hop on over to GTM and make a tag with the following settings:
 
-![Creating a Mixpanel Account](https://raw.githubusercontent.com/kimberlyhou/memory-scrapbook/img/431.png)
+![Creating a Mixpanel Account](https://raw.githubusercontent.com/kimberlyhou/memory-scrapbook/master/img/431.png)
 
 Make sure that the priority of this tag is set to 5 (or anything higher than the default 0) so that it will load first before any other tags. 
 
@@ -392,15 +392,15 @@ We’re almost ready to finalize everything! As these parts come together, there
 
 Let’s open up GTM, change our mode to Preview, and then open up our website in a new tab of the same browser. 
 
-![Preview Site in GTM](https://raw.githubusercontent.com/kimberlyhou/memory-scrapbook/img/432.png)
+![Preview Site in GTM](https://raw.githubusercontent.com/kimberlyhou/memory-scrapbook/master/img/432.png)
 
 Right away, notice the Mixpanel Library tag is automatically fired once the page loads:
 
-![Preview Site in GTM](https://raw.githubusercontent.com/kimberlyhou/memory-scrapbook/img/432B.png)
+![Preview Site in GTM](https://raw.githubusercontent.com/kimberlyhou/memory-scrapbook/master/img/432B.png)
 
 After clicking on the first two buttons of the page,  you should see additional tags be fired as well as the following events pop up on the data layer:
 
-![Preview Site in GTM](https://raw.githubusercontent.com/kimberlyhou/memory-scrapbook/img/432C.png)
+![Preview Site in GTM](https://raw.githubusercontent.com/kimberlyhou/memory-scrapbook/master/img/432C.png)
 
 If these look good to you, go ahead and publish any/all changes on Google Tag Manager.
 
@@ -408,11 +408,11 @@ If these look good to you, go ahead and publish any/all changes on Google Tag Ma
 ### 4.3.3 Live View in Mixpanel
 Login to your Mixpanel account and navigate to the Live View tab. If the above steps have worked for you, you should now be seeing live click events you’re tracking come through!
 
-![Live View in Mixpanel](https://raw.githubusercontent.com/kimberlyhou/memory-scrapbook/img/433.png)
+![Live View in Mixpanel](https://raw.githubusercontent.com/kimberlyhou/memory-scrapbook/master/img/433.png)
 
 If you’ve implemented the page view tracker with your own page path variable, here is what you should also see when you click on the event in Mixpanel:
 
-![Live View in Mixpanel](https://raw.githubusercontent.com/kimberlyhou/memory-scrapbook/img/433B.png)
+![Live View in Mixpanel](https://raw.githubusercontent.com/kimberlyhou/memory-scrapbook/master/img/433B.png)
 
 <a id="mixpanel-wrapups"></a>
 ### 4.3.4 Mixpanel Wrapups
