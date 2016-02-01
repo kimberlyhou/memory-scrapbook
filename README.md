@@ -60,17 +60,17 @@ For the first three levels of the curriculum, we will finish each day with deliv
 # Level 1: Planning
 A lot of discussion, sticky notes, and Googling go into building a product long before the product is actually built. Below we’ll introduce a few separate ideas that come together when researching the problem and the space in which we’re building a product. 
 
-After today, we’ll each have a product idea with a rough business model sketched out using the Lean Canvas. In the next level, we’ll then design the features and corresponding methods of implementation based on the business model. 
+After today, we’ll each have a product idea with a rough business model sketched out using the Lean Canvas. In the next level, we’ll design features and corresponding methods of implementation based on the business model. 
 
 <a href="#top" class="top" id="product-life-cycle">Top</a>
 ## 1.1 Product Life Cycle
 While software companies might define their product development cycles differently, there are generally three main steps involved:
 
-Planning -- Based on the company’s missions and values, market research, competitor landscape, and user needs, let’s identify the specific problem and how to solve it
-Design -- Drawing from current user pain points for other competing products, let’s create a refreshing and enriching user experience that matches with our product’s value proposition
-Implementation -- We build out the product according to our plans and re-prioritize adjustments as a larger scale of user feedback rolls in 
+-	Planning -- Based on the company’s missions and values, market research, competitor landscape, and user needs, let’s identify the specific problem and how to solve it
+-	Design -- Drawing from current user pain points for other competing products, let’s create a refreshing and enriching user experience that matches with our product’s value proposition
+-	Implementation -- We build out the product according to our plans and re-prioritize adjustments as a larger scale of user feedback rolls in 
 
-In today’s part of the curriculum, we’ll take a look at various ways research is conducted as part of the planning stage. Afterwards, we’ll apply what we’ve learned to a case study of Snapchat, one of today’s hot consumer apps out there. 
+In today’s part of the curriculum, we’ll take a look at various ways research is conducted as part of the planning stage. Throughout, we’ll apply some of what we learn in a case study of Snapchat, one of today’s hottest consumer apps. 
 
 <a href="#top" class="top" id="market-validation">Top</a>
 ## 1.2 Market Validation
@@ -78,7 +78,7 @@ In today’s part of the curriculum, we’ll take a look at various ways researc
 <a id="defining-market-validation"></a>
 ### 1.2.1 Defining Market Validation
 Market validation is the process of gauging your target market’s interest in your product. 
-If you can hypothetically sell it before you build it, you will have saved yourself a lot of time from spending hours on a product only to find out users are not interested in it.
+If you can hypothetically sell it before you build it, you will have saved yourself a lot of time from spending hours on a product users are not interested in it.
 
 Before building a product, it’s important to define who your users/customers are to make sure what you create would be relevant to your audience. A few questions to consider:
 -	What is the problem we’re trying to solve?
@@ -90,12 +90,12 @@ Before building a product, it’s important to define who your users/customers a
 ### 1.2.2 Snapchat Case Study Part I
 What problem does Snapchat design a solution for?
 -	"Snapchat isn't about capturing the traditional Kodak moment. It's about communicating with the full range of human emotion — not just what appears to be pretty or perfect."
--	"Emergency detagging of Facebook photos before job interviews and photoshopping blemishes out of candid shots before they hit the internet" [source]
+-	"Emergency detagging of Facebook photos before job interviews and photoshopping blemishes out of candid shots before they hit the internet" [[source]]
 
 Who are the users?
 -	Criteria for being a snapchat user: Having a connected smartphone (indicates a certain geographical/socioeconomic status)
 -	Key demographic: US Residents, 13-24 years of age
--	Snapchat is still young, so the early adopters of US Residents from 13-24 are the key demographic this far. International and older demographics are beginning to adopt the technology 
+-	Snapchat is still young, so US Residents from 13-24 are the key demographic thus far, but international and older demographics are beginning to adopt the technology
 
 <a href="#top" class="top" id="user-feedback">Top</a>
 ## 1.3 User Feedback
@@ -103,21 +103,21 @@ Let’s switch gears for a bit and introduce what many companies (both large and
 
 <a id="user-tests"></a>
 ### 1.3.1 User Tests
-User tests are the bread and butter of figuring out how to build and improve your product. Ideally, a company would be talking to its hypothetical users throughout the product development process and making slight adjustments along the way to maximize efficiency and reduce wasted resources. 
+User tests are the bread and butter of figuring out how to build and improve your product. Ideally, a company would be talking to its potential users throughout the product development process and making slight adjustments along the way to maximize efficiency and reduce wasted resources. 
 
-When conducting one-on-one user tests and observing how they first interact with the product’s flow, it’s important to keep in mind what they do not say as well as what they comment on. Identifying usability problems is not always straightforward. For example, a user may not be able to find the login button on a site for about 5 seconds; the user might not say anything for fear of sounding dumb, but that very well could be an important usability issue that the team should change. 
+When conducting one-on-one user tests and observing how people first interact with the product’s user flow, it’s important to think about what they do not say, as well as what they comment on. Identifying usability problems is not always straightforward. For example, a user may not be able to find the login button on a site for about 5 seconds; the user might not say anything for fear of sounding dumb, but that would be an indicator important usability issue that the team should re-evaluate. 
 
-How many user tests count as too many? Feedback sessions can be costly in terms of time for the team and money for the users. As a rule of thumb, some say you’ll find the significant problems with your product from just 5 users for every iteration. 
+How many user studies is many? Feedback sessions can be costly in terms of time for the team and money for the users. As a rule of thumb, some say you’ll find the significant problems with your product from just 5 user tests for every iteration. 
 
-Another option is to conduct focus groups, where the team brings in several people to answer questions. These tend to be useful for sourcing keyword ideas on branding, mission, and marketing as well as for suggestions on the overall product’s user flow. 
+Another option is to conduct focus groups, where several people are brought in to be interviewed as a group to answer questions. These tend to be useful for sourcing keyword ideas on branding, mission, and marketing, as well as for suggestions on the product’s overall user flow. 
 
 <a id="screeners"></a>
 ### 1.3.2 Screeners
-When choosing a sample of the product’s target audience to conduct user feedback tests with, companies often write screeners first. A screener could be as simple as a form to select users with the right demographics. It’s very important to erase any potential biases in how each question on the screener is worded to avoid false answers. 
+When choosing a sample of the product’s target audience to conduct user feedback tests with, companies often first write screeners. A screener could be as simple as a form to select users of the correct target demographic. It’s very important to erase any potential biases in how each question on the screener is worded to avoid false answers. 
 
 A few things to keep in mind for writing effective screeners:
 -	Use multiple choice questions with answer choices as ranges when possible
-	-	Masks the demographic that we’re looking for, giving users no reason to lie
+	-	Masks the demographic that the tester is looking for, giving users no reason to lie
 -	Always add a choice for “I do not feel comfortable answering this question”
 	-	Especially important when asking for more sensitive information such as credit score or salary ranges
 	-	Gives users sense of privacy
@@ -129,31 +129,28 @@ A few things to keep in mind for writing effective screeners:
 ### 1.4.1 What's in a Business Model?
 The term ‘business model’ is sometimes taken as the answer to ‘how a company makes money,’ but it can be so much more complex and flexible than just that. In fact, ‘business model’ has been [referred to] as a ‘term of art.’
 
-In a nutshell, the business model explains what user problem you’re solving, what your product’s value proposition is, and what profitability margins could realistically look like. 
+In a nutshell, a business model explains what user problem you’re solving, what your product’s value proposition is, and what profitability margins could realistically look like. 
 
 <a id="examples-of-business-models"></a>
 ### 1.4.2 Examples of Business Models
 -	Warby Parker
-	-	e-commerce site that sells glasses for a cheaper price than its competitors by removing the middlemen
-	-	donates glasses to nonprofit partners for a training program
+	-	E-commerce site that sells glasses more inexpensively than competition by removing the middlemen
+	-	Donates money for every pair sold to nonprofit partners to fund sourcing of glasses and training of optometrists in developing countries
 -	Fruit Ninja
-	-	uses ads to support its free version and is built on a freemium model (free downloads with options to purchase extra features or bigger subscriptions)
-	-	premium downloads + in-game purchases are over $1 million / month, excluding ads
+	-	App built on a freemium model (free downloads with options to purchase extra features or bigger subscriptions) that uses ads to support its free version
+	-	Premium downloads + in-game purchases are over $1 million / month, in addition to advertisting revenue
 -	Airbnb
-	-	takes advantage of the person-to-person business model 
+	-	Takes advantage of the person-to-person business model 
 
 Now let's take a look at Snapchat, a rather interesting case:
-	-	It is actually not uncommon for tech companies that deliver a viral/niche product to begin without a business model. 
-	-	Sponsored Channels (Discover)
-		-	Companies pay to have their sponsored content on a snapchat channel (news, sports, fashion, etc) and users receive well curated and frequently updated content 
+-	It is not uncommon for tech companies that deliver a viral/niche product to begin without a business model 
+-	Sponsored Channels (Discover) - Companies pay to have their sponsored content on a snapchat channel (news, sports, fashion, etc) and users receive well-curated and frequently updated content 
 
 <a id="lean-canvas"></a>
 ### 1.4.3 Lean Canvas
-In order to consolidate and document a given business model, Alexander Osterwalder proposed the [Business Model Canvas] in 2008, allowing teams to segment out the fundamentals of operating their business, from identifying key partners to building customer relationships. Stemming from the Business Model Canvas came a few other versions including the Lean Canvas for startups created by Ash Maurya. 
+In order to consolidate and document a given business model, Alexander Osterwalder proposed the [Business Model Canvas] in 2008, allowing teams to segment out the fundamentals of operating their business, from identifying key partners to building customer relationships. Other versions of the tool have stemmed from the Business Model Canvas, including the Lean Canvas for startups, which was created by Ash Maurya. It was made with the mindset of the Lean Startup methodology as developed by Eric Ries in 2008. The method emphasizes user feedback during the entire product cycle so as to save as much time and energy as possible while optimizing a solution users want. Instead of waiting until launch to speak with users and gauge interest, Ries calls for building a minimum viable product (MVP) instead as soon as possible and then iterating upon it based on user feedback. 
 
-Note the Lean Canvas was made with the mindset of the Lean Startup methodology as developed by Eric Ries in 2008. The method emphasizes user feedback during the entire product cycle so as to save as much time and energy as possible while optimizing a solution users want. Instead of waiting until launch to speak with users and gauge interest, Ries calls for building a minimum viable product (MVP) instead as soon as possible and then iterating upon it based on user feedback. 
-
-In any case, today we’ll be using the Lean Canvas template to brainstorm and come up with our own business models. 
+We’ll be using the Lean Canvas template in this curriculum to brainstorm and define our own business models. 
 
 **Today's Deliverable:** Think about a problem that you’re interested in or passionate about. If needed, conduct some research about the space you’re hypothetically pursuing and form a framework from which to implement your solution. Document your own business model using the [Lean Canvas template]. 
 
@@ -197,7 +194,7 @@ For reference, below is a sample spec for ideas.
 
 Mozilla - https://docs.google.com/document/d/1VzNPatym-iyd2aJNsWlvsNGjb3MZEacEvKpfouV3VGw/edit
 
-<a href="#top" class="top" id="personas"><Top></a>
+<a href="#top" class="top" id="personas">Top</a>
 ## 2.2 Personas
 
 As part of optimizing user experience for a product, some designers emphasize the use of developing personas. Personas are different user types based on research and feedback to separate and define the kinds of users who may be interacting with your product. Not all designers like to create personas, preferring to rely strictly on iterative techniques like A/B testing to gather all user preferences and design decisions. If you choose to develop personas for your product, keep in mind the characteristics of each must be rooted in data to prevent them from becoming mere stereotypes.
@@ -209,7 +206,7 @@ Personas may also be used for branding and marketing purposes in addition to use
 <a href="#top" class="top" id="user-flows"><Top></a>
 ## 2.3 User Flows
 
-<a id="what-user-flow-entails"></a>
+<a id="what-user-flows-entail"></a>
 ### 2.3.1 What User Flows Entail
 
 User flows visualize the user’s path from start to finish, documenting how the user interacts with your product and completes the funnel. The funnel in this case refers to a multi-step task (whether filling out a registration form or answering a survey, etc.) that your user would ideally complete. Obviously, most people would start the process but many exit out of the process for various reasons (thus creating a decreasing funnel shape). Those who do complete the entire process are referred to as conversions. 
@@ -248,8 +245,6 @@ The way to think about your metrics is by thinking about what questions you want
 -	Could identify other possible bottlenecks 
 
 **Deliverable:** Create a spec for your product. Tomorrow you’ll be using it to design your mocks!
-
-<a href="#top" class="top" id="growth">Top</a>
 
 <a href="#top" class="top" id="design-ii">Top</a>
 # 3.0 Design II
