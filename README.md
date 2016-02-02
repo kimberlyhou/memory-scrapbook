@@ -157,26 +157,26 @@ We’ll be using the Lean Canvas template in this curriculum to brainstorm and d
 <a href="#top" class="top" id="design-i">Top</a>
 # Level 2: Design I
 
-Hooray! We now have our proposed business model. Before we lay out any plans for our product’s visuals, let’s take a look at a few techniques that product managers use to convey the specifics of the implementation to designers, engineers, and other involved team members. 
+Hooray! We now have our proposed business model. When thinking about the user interface and experience of our product, we will be using a philosophy known as user-centered design (UCD). The UCD process is focused on understanding the needs, wants, and limitations of end users, in order to optimize the product around user behavior, as opposed to expecting users to adapt to the product. Before we lay out any plans for our product’s visuals, let’s take a look at a few techniques that product managers use to convey the specifics of the implementation to designers, engineers, and other involved team members. 
 
 <a href="#top" class="top" id="specs"><Top></a>
 ## 2.1 Specs
 <a id="what-are-specs"></a>
 ### 2.1.1 What are specs?
 
-When talking with product managers, you might hear them talk about specs, which they’re often in charge of writing. Specs -- short for specifications -- refer to the document that describes the the high-level purpose and vision of the product all the way down to the nitty gritty details of the features and how those features are implemented. 
+When talking with product managers, you might hear them talk about specs, which they’re often in charge of writing. Spec -- short for specification -- refers to the document that describes the the high-level purpose and vision of the product all the way down to the nitty gritty details of the features and how those features are implemented. 
 
 There is no standardized way across companies to write specs, but they generally have the same fundamental elements:
-Version of the product 
-Purpose and vision of the product
-How users can interact with the product (as organized by user stories or just the different features themselves, e.g. Search Box)
+-	Version of the product 
+-	Purpose and vision of the product
+-	How users can interact with the product (as organized by user stories or simply by feature, e.g. Search Box)
 
-Note that for bigger companies, specs can also be written for individual features of a much larger product. 
+Note that for bigger projects, common at larger companies, specs can also be written for individual features of a much larger product. 
 
 <a id="user-stories"></a>
 ### 2.1.2 User stories
 
-Often, specs are built by starting out with user stories. A user story describes a specific use case of a specific feature. It usually goes by the following template: 
+Often, specs are put together by starting with user stories. A user story describes a specific use case of a specific feature. These user stories are commonly written using the following template: 
 
 As a <type of user>, I can <do something> so that <something>.
 
@@ -185,21 +185,21 @@ TI-84 Calculator -- As a high school student, I can draw graphs using the calcul
 GroupMe -- As a user, I can ‘favorite’ a message in a conversation in order to increase the opportunities for social interactions.
 FaceTime -- As an iPhone 6S user, I can view my FaceTime call history.
 
-From these general user stories, further and more specific user stories are created to implement a solution for every possibility of every feature’s use case. 
+From these general user stories, more detailed and specific user stories are created to implement a solution for every possibility of every feature’s use case. 
 
 <a id="sample-specs"></a>
 ### 2.1.3 Sample Specs
 
-For reference, below is a sample spec for ideas. 
+For reference, below is a link to a sample feature spec from Mozilla for category pages in their Firefox web browser product:
 
-Mozilla - https://docs.google.com/document/d/1VzNPatym-iyd2aJNsWlvsNGjb3MZEacEvKpfouV3VGw/edit
+https://docs.google.com/document/d/1VzNPatym-iyd2aJNsWlvsNGjb3MZEacEvKpfouV3VGw/edit
 
 <a href="#top" class="top" id="personas">Top</a>
 ## 2.2 Personas
 
-As part of optimizing user experience for a product, some designers emphasize the use of developing personas. Personas are different user types based on research and feedback to separate and define the kinds of users who may be interacting with your product. Not all designers like to create personas, preferring to rely strictly on iterative techniques like A/B testing to gather all user preferences and design decisions. If you choose to develop personas for your product, keep in mind the characteristics of each must be rooted in data to prevent them from becoming mere stereotypes.
+As part of optimizing user experience for a product, some designers emphasize the importance of developing personas. Personas are different user types resulting from defined segmentation of users who may be interacting with your product, based on research and feedback. Not all designers like to create personas, though, and some prefer to rely strictly on iterative techniques like A/B testing for understanding user preferences and making design decisions. If you choose to develop personas for your product, keep in mind the characteristics of each must be rooted in data to prevent them from becoming mere stereotypes.
 
-Personas may also be used for branding and marketing purposes in addition to user-centered design. For instance, CityMapper capitalizes on the stereotypes of its users as part of marketing - 
+Personas can also be used for branding and marketing purposes, beyond their application in user-centered design. For instance, CityMapper capitalizes on the stereotypes of its users as part of marketing - 
 
 ![Courtesy of Citymapper](https://raw.githubusercontent.com/kimberlyhou/memory-scrapbook/josh-markdown/img/citymapper.png)
 
@@ -209,17 +209,17 @@ Personas may also be used for branding and marketing purposes in addition to use
 <a id="what-user-flows-entail"></a>
 ### 2.3.1 What User Flows Entail
 
-User flows visualize the user’s path from start to finish, documenting how the user interacts with your product and completes the funnel. The funnel in this case refers to a multi-step task (whether filling out a registration form or answering a survey, etc.) that your user would ideally complete. Obviously, most people would start the process but many exit out of the process for various reasons (thus creating a decreasing funnel shape). Those who do complete the entire process are referred to as conversions. 
+User flows visualize the user’s path from start to finish, documenting how the user interacts with your product and completes the funnel. The funnel in this case refers to a multi-step task (whether filling out a registration form or answering a survey, etc.) that your user would ideally complete. Obviously, many people who start the process many drop out over the course of the process for various reasons (thus creating a decreasing funnel shape). Those who do complete the entire process are referred to as conversions. 
 
 Before creating user flows, it’s important to clearly define your product’s goals (e.g. getting a visitor to sign up) and your user’s goals (what the user would desire or need). Think about how you can create each step of the way as something a user would want to do. 
 
-Also, remember that the users may come upon your site / product through various sources; examples include through a paid ad, organic search, or simply through a direct link to your site. Will they be directed to a landing page based on where they came from and the wording of your ads? The user flow isn’t always the same.
+Also, remember that the users may come upon your site / product through various sources; examples include paid ads, organic search, and direct links to your site. Will they be directed to a landing page based on where they came from and the wording of your ads? The user flow is often different dependent on the channel through which the user arrived.
 
 <a href="#top" class="top" id="snapchat-case-study-part-ii"><Top></a>
 ### 2.3.2 Snapchat Case Study
 
-The key workflow to sending a snap is just 3 steps. The most common flow (sending a snap) is abstracted to take a minimal number of input/keystrokes from the user (read down the right hand column of the figure).
-Going back to the mission statement: the workflow is optimized for people to take and share photos that capture their unabridged emotion and state. This is why the home screen on first launch of the app is the camera. The camera is the center of the UI. 
+The most common user flow in Snapchat (sending a snap) is abstracted to take a minimal number of input/keystrokes from the user, with a total of 3 steps (read down the right hand column of the figure).
+Going back to the mission statement: the user flow is optimized for people to take and share photos that capture their unabridged emotion and state. This is why the home screen on first launch of the app is the camera. The camera is the focus of the user interface. 
 
 ![Snapchat Flow](https://raw.githubusercontent.com/kimberlyhou/memory-scrapbook/josh-markdown/img/snapchat-i.png)
 ![Snapchat Flow II](https://raw.githubusercontent.com/kimberlyhou/memory-scrapbook/josh-markdown/img/snapchat-ii.png)
